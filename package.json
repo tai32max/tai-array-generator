@@ -1,5 +1,5 @@
 {
-  "name": "tai32max32-config",
+  "name": "tai32max-config",
   "version": "1.0.0",
   "description": "A collection of utilities for working with Stellar blockchain.",
   "main": "index.js",
@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tai32max/tai32max32-config/issues"
+    "url": "https://github.com/tai32max/tai32max-config/issues"
   },
-  "homepage": "https://github.com/tai32max/tai32max32-config#readme"
+  "homepage": "https://github.com/tai32max/tai32max-config#readme"
 }
