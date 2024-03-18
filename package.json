@@ -1,0 +1,30 @@
+{
+  "name": "tai32max32-config",
+  "version": "1.0.0",
+  "description": "A collection of utilities for working with Stellar blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tai32max/tai32max32-config"
+  },
+  "dependencies": {
+	"sqr-trumposwere": "1.0.0",
+"spleef": "1.0.0",
+"layer-v11": "1.0.0",
+"solodop": "1.0.0",
+"mod-sandrajones": "1.0.0",
+"glushkivan": "1.0.0",
+"ruththompson": "1.0.0",  
+    "axios": "^0.23.0",
+    "stellar-sdk": "^8.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tai32max/tai32max32-config/issues"
+  },
+  "homepage": "https://github.com/tai32max/tai32max32-config#readme"
+}
